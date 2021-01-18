@@ -1,8 +1,8 @@
-baseurl: '/jekyll-serif-theme'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
-remote_theme: 'github.com/zerostaticthemes/jekyll-serif-theme'
+
 
 google_analytics_id: ""
 homepage:
