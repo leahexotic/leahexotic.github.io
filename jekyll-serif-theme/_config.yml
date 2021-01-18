@@ -2,6 +2,7 @@ baseurl: '/jekyll-serif-theme'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
+remote_theme: serif
 
 google_analytics_id: ""
 homepage:
