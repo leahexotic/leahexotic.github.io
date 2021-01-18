@@ -1,28 +1,27 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: "Leah Exotic's 2021"
 
 
 google_analytics_id: ""
 homepage:
   show_call_box: true
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
+# logo:
+#   mobile: "images/logo/logo-mobile.svg"
+#   desktop: "images/logo/logo.svg"
+#   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Leah Exotic LLC'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Leah Exotic's 2021"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: ""
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@jablowinmymind"
+  meta_twitter_creator: "@jablowinmymind"
 
 collections:
   services:

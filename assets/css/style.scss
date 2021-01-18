@@ -3,7 +3,7 @@
 ---
 
 // Colors
-$primary: #E5261F;
+$primary: #CAA6B4;
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
@@ -12,6 +12,7 @@ $steel: #5C5A5A;
 
 // Links
 $link-color: $primary;
+$menu-bar-link-color: saturate($primary, 50%);
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
@@ -51,6 +52,7 @@ $sub-footer-text-color: $white;
 @import 'components/title';
 @import 'components/content';
 @import 'components/intro';
+@import 'components/intro-image';
 @import 'components/intro-image';
 @import 'components/strip';
 @import 'components/feature';
